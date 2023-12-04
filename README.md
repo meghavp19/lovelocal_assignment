@@ -31,7 +31,7 @@ _____________________________________________________________________
 *  The function length_of_last_word is called with the user's input, and the result is 
    stored in the variable result.
 
-===============================================================
+
 2) Medium 2 : medium2.py
   Given an integer array of size n, find all elements that appear more than ⌊ n/3 ⌋ times. 
   Constraints:
@@ -139,7 +139,7 @@ ________________________________________________________________________________
 *  Calls the function with the user's input and stores the result.
    print("Elements appearing more than ⌊ n/3 ⌋ times:", result)
 
-========================================================
+
 3) Hard 3:hard3.py
    Given an integer n, count the total number of digit 1 appearing in all non-negative 
    integers less than or equal to n.
@@ -191,7 +191,7 @@ ________________________________________________________________________________
 
 * Displays the total occurrences of the digit 1 in all numbers from 1 to the user-provided 
   limit.
-===================================================== 
+ 
 
 
 
