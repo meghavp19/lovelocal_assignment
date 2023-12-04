@@ -32,7 +32,10 @@ _____________________________________________________________________
    stored in the variable result.
 
 
+
+
 2) Medium 2 : medium2.py
+   
   Given an integer array of size n, find all elements that appear more than ⌊ n/3 ⌋ times. 
   Constraints:
         1 <= nums.length <= 5 * 104
@@ -140,7 +143,9 @@ ________________________________________________________________________________
    print("Elements appearing more than ⌊ n/3 ⌋ times:", result)
 
 
+
 3) Hard 3:hard3.py
+   
    Given an integer n, count the total number of digit 1 appearing in all non-negative 
    integers less than or equal to n.
    Constraints:
